@@ -1,0 +1,6 @@
+{
+  "name": "Auto-Mobile Parking App",
+  "description": "Smart parking application landing page and interactive platform with spot locator, real-time availability, booking, team showcase, and support.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
